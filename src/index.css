@@ -128,3 +128,6 @@ table {
 button {
   all: unset;
 }
+::-webkit-scrollbar {
+  display: none;
+}
